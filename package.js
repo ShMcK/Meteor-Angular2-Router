@@ -8,6 +8,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('1.1.0.2');
-  api.use('shmck:angular2');
+  api.use('shmck:angular2@2.0.0-alpha.31');
   api.addFiles('lib/router@alpha.31.js');
 });
