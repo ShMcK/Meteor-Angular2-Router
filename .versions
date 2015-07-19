@@ -13,7 +13,7 @@ minimongo@1.0.8
 ordered-dict@1.0.3
 random@1.0.3
 retry@1.0.3
-shmck:angular2@0.1.0
-shmck:angular2-router@2.0.0-alpha.31
+shmck:angular2@2.0.0-alpha.31
+shmck:angular2-router@2.0.0-alpha.31-0
 tracker@1.0.7
 underscore@1.0.3
