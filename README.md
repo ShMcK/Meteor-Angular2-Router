@@ -5,6 +5,10 @@ Angular 2 Router package for Meteor.
 ##### Version: alpha-32
 *NOTE: Use the same version of the router as Angular 2*
 
+## Tutorial
+
+A [tutorial](http://angular-meteor.com/tutorials/angular2/routing-and-multiple-views) explaining how to setup and use the angular2-router with Meteor.
+
 ## Installation
 
     meteor add shmck:angular2-router
