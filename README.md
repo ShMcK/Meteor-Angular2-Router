@@ -2,7 +2,7 @@
 
 Angular 2 Router package for Meteor. 
 
-##### Version: alpha-33
+##### Version: alpha-34
 *NOTE: Use the same version of the router as Angular 2*
 
 ## Tutorial
