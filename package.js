@@ -1,7 +1,7 @@
 Package.describe({
   name: 'shmck:angular2-router',
-  version: '2.0.5',
-  summary: 'Angular 2 Router packaged for Meteor. Alpha-36.',
+  version: '2.0.7',
+  summary: 'Angular 2 Router packaged for Meteor. Alpha-37.',
   git: 'https://github.com/ShMcK/meteor-angular2-router',
   documentation: 'README.md'
 });
